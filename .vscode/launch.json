@@ -15,7 +15,7 @@
                 "run-script",
                 "debug"
             ],
-            "port": 12333
+            "port": 3210
         }
     ]
 }
