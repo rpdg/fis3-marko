@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-dev": "fis3 release dev -cd ../dist",
+    "debug": "node --inspect=12333 --inspect-brk C://Users//bestv//AppData//Roaming//npm//node_modules//fis3//bin//fis.js release dev -cd ../dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/marko": "^4.6.0",
+    "marko": "^4.14.7"
+  }
+}
